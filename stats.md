@@ -1,6 +1,6 @@
 # moni; Money
 ## kala suli; big fish
-wan kala suli li sama luka kipisi tu ma Kanada moni
+wan kala suli li sama luka kipisi tu ma Kanata moni
 
 a kala suli is 2.50$CAD
 
